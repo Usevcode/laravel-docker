@@ -1,4 +1,3 @@
-Ya, struktur Docker seperti ini sangat memudahkan proses deployment ke VPS karena beberapa alasan:
 
 1. Konsistensi Lingkungan
 
